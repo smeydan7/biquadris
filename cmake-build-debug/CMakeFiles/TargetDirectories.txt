@@ -1,0 +1,3 @@
+/Users/thisaja/Desktop/biquadris/cmake-build-debug/CMakeFiles/biquadris.dir
+/Users/thisaja/Desktop/biquadris/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thisaja/Desktop/biquadris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
