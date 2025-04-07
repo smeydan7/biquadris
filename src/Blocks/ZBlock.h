@@ -1,6 +1,6 @@
 #ifndef BIQUADRIS_ZBLOCK_H
 #define BIQUADRIS_ZBLOCK_H
-#include "../Block.h"
+#include "../core/Block.h"
 
 class ZBlock : public Block {
 public:

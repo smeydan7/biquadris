@@ -1,6 +1,6 @@
 #ifndef BIQUADRIS_IBLOCK_H
 #define BIQUADRIS_IBLOCK_H
-#include "../Block.h"
+#include "../core/Block.h"
 
 class IBlock : public Block {
 public:

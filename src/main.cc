@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <string>
 #include <sstream>
-#include "Game.h"
+#include "core/Game.h"
 using namespace std;
 
 int highscore = 0; // should be passed as a parameter in score constructor

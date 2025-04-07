@@ -2,7 +2,7 @@
 #define BIQUADRIS_JBLOCK_H
 #include <vector>
 #include <string>
-#include "../Block.h"
+#include "../core/Block.h"
 
 class JBlock : public Block {
 public:

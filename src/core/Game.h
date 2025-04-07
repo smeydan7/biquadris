@@ -7,7 +7,7 @@
 #include <algorithm>
 #include <fstream>
 #include "trie.cc"
-#include "view.h"
+#include "ui/view.h"
 using namespace std;
 
 
